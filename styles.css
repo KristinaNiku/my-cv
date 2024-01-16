@@ -1,0 +1,18 @@
+body {
+    background: #eae8e7;
+    color: #767270;
+    padding: 1%;
+    font-size: 14px;
+    font-family: verdana, sans-serif;
+}
+.contact-info{
+               width:30%;
+			display: inline-block;
+			margin-left: 10%;
+			background: #5da4d9;
+			color: white;
+            padding: 15px;
+}
+img {
+    width: 100%;
+}
